@@ -1,5 +1,6 @@
 
-Arabic Web Scraping and NLP Pipeline
+Arabic Web Scraping and NLP Pipeline :
+
 This project aims to scrape data from Arabic web sources pertaining to a specific domain using libraries like Scrapy and Beautiful Soup. The scraped data will be stored in a NoSQL database, specifically MongoDB, for efficient storage and retrieval.
 
 Usage Instructions:
